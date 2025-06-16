@@ -76,7 +76,7 @@ Docker Compose allows:
 ## ✅ Getting Started
 
 1. **Clone the repo**
-git clone https://github.com/your-username/mini-microservices.git
+git clone https://github.com/KrishnaMittal-az/mini-microservices.git
 cd mini-microservices
 
 text
