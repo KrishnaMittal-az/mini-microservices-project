@@ -3,7 +3,7 @@
 A fully containerized microservices architecture using **Docker Compose** — featuring a React frontend, Node.js backend, PostgreSQL, MongoDB, Redis, RabbitMQ, and NGINX as a reverse proxy.
 
 > Built to simulate real-world DevOps-ready service orchestration locally.
-
+    
 ---
 
 ## 🚀 Project Overview
